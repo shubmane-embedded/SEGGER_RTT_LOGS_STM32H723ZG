@@ -1,0 +1,8 @@
+../SeggerRTT/Src/rtt_log.c:31:6:RTT_Log_Init	2
+../SeggerRTT/Src/rtt_log.c:52:13:RTT_Log_AutoInit	1
+../SeggerRTT/Src/rtt_log.c:61:5:_write	3
+../SeggerRTT/Src/rtt_log.c:82:5:_read	3
+../SeggerRTT/Src/rtt_log.c:100:5:RTT_Log_GetKey	1
+../SeggerRTT/Src/rtt_log.c:112:32:RTT_Log_GetTimeMs	1
+../SeggerRTT/Src/rtt_log.c:138:6:RTT_Log	5
+../SeggerRTT/Src/rtt_log.c:203:6:RTT_Log_HexDump	6

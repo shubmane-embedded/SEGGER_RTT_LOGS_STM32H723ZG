@@ -1,0 +1,4 @@
+../SeggerRTT/Src/SEGGER_RTT_printf.c:73:13:_StoreChar	8	static
+../SeggerRTT/Src/SEGGER_RTT_printf.c:98:13:_PrintUnsigned	40	static
+../SeggerRTT/Src/SEGGER_RTT_printf.c:283:5:SEGGER_RTT_vprintf	208	static
+../SeggerRTT/Src/SEGGER_RTT_printf.c:474:5:SEGGER_RTT_printf	12	static
